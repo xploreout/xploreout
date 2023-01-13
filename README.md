@@ -1,9 +1,17 @@
 ### Hi there 👋
-<div id="badges">
+
+  
+  <div>
+   <img src="http://clipart-library.com/newhp/kissclipart-woman-computer-programmer-clipart-computer-program-462fb3955bf62bad.png" width=50px/>
+  </div>
+  
+   🔭 I’m currently working on ... Typescript
+  
+  <div id="badges">
   <a href="https://linkedin.com/in/tanlui">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width=50px/>
   </a>
-  </did>
+  </div>
 <!--
 **xploreout/xploreout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
