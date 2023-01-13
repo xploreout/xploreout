@@ -8,7 +8,7 @@
   </br>
   
    🔭 I’m currently working on ...  JS, C#, React, ASP.NET Core </br>
-   🌱 I’m currently learning ...Typescript
+   🌱 I’m currently learning ... Typescript, Azure
   
   <div id="badges">
     <a href="https://linkedin.com/in/tanlui">
