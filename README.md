@@ -5,7 +5,7 @@
    <img src="http://clipart-library.com/newhp/kissclipart-woman-computer-programmer-clipart-computer-program-462fb3955bf62bad.png" width=50px/>
   </div>
   </br>
-  </br>
+
   
    🔭 I’m currently working on ...  JS, C#, React, ASP.NET Core </br>
    🌱 I’m currently exploring ... Typescript, Azure
