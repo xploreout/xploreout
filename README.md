@@ -8,16 +8,16 @@
 
   
    🔭 I’m currently working on ...  JS, C#, React, ASP.NET Core </br>
-   🌱 I’m currently exploring ... Typescript, Azure
+   🌱 I’m currently exploring ... TS and testing
   
   <div id="badges">
     <a href="https://linkedin.com/in/tanlui">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width=55px/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width=85px/>
     </a>
     <a href="https://twitter.com/tan_im_">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width=50px/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width=80px/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=xploreout&style=flat-square&color=blue" alt="counter"/>
+<!--     <img src="https://komarev.com/ghpvc/?username=xploreout&style=flat-square&color=blue" alt="counter"/> -->
   </div>
 <!--
 **xploreout/xploreout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
