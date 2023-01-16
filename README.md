@@ -17,6 +17,7 @@
     <a href="https://twitter.com/tan_im_">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width=50px/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=xploreout&style=flat-square&color=blue" alt="counter"/>
   </div>
 <!--
 **xploreout/xploreout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
