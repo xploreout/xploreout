@@ -8,7 +8,7 @@
 
   
    🔭 I’m currently working on ...  NextJS, C#, React, ASP.NET Core </br>
-   🌱 I’m currently exploring ... TS and testing
+   🌱 I’m currently exploring ... AI integration with code
   
   <div id="badges">
     <a href="https://linkedin.com/in/tanlui">
