@@ -7,8 +7,8 @@
   </br>
 
   
-   🔭 I’m currently working on ...  NextJS, C#, React, ASP.NET Core </br>
-   🌱 I’m currently exploring ... AI integration with code and TS
+   🔭 I’m currently working on ...  coding to intergrate with openai </br>
+   🌱 I’m currently exploring ... AI and Security
   
 
 
